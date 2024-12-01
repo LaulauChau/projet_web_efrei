@@ -21,6 +21,7 @@ A web application that enables users to create, share, and manage cooking recipe
 
 - [Flutter](https://flutter.dev/) v3.24.5 or higher
 - [Dart](https://dart.dev/) v3.5.4 or higher
+=======
 
 ## Installation
 
@@ -53,7 +54,6 @@ export const environment = {
     messagingSenderId: "",
   },
 };
-```
 
 4. Install the dependencies:
 
@@ -68,8 +68,6 @@ pnpm run start
 ```
 
 #### Docker setup
-
-#
 
 Alternatively, you can run the application in a Docker container.
 
